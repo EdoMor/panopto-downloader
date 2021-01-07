@@ -7,5 +7,5 @@ downloads panopto video from stream to solve the problem where if there is a cam
 2. in the network tab search for .ts
 3. right click on any of the files and click on copy->copy link address
 4. paste the url without the /#####.ts at the end where it sais 'url goes here'
-5. make shure the script is running from a new folder as its "janky as hell"
+5. make shure the script is running from a new folder as its "janky as hell" <-- **this step is importent**
 6. new.ts is the finished product take it and delete the folder
